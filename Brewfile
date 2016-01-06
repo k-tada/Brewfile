@@ -131,11 +131,6 @@ brew wxmac
 brew xz
 brew zeromq
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask dash2 (!)
-
 # App Store applications
 appstore GarageBand
 appstore iMovie
