@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask alfred
@@ -10,6 +9,7 @@ cask atom
 cask boot2docker
 cask clipy
 cask cyberduck
+cask dash
 cask day-o
 cask evernote
 cask gisto
@@ -28,35 +28,26 @@ cask virtualbox
 cask xquartz
 cask xtrafinder
 
-## caskroom/versions
 tap caskroom/versions
 cask intellij-idea-ce
 
-## homebrew/binary
 tap homebrew/binary
 
-## homebrew/brewdler
 tap homebrew/brewdler
 
-## homebrew/php
 tap homebrew/php
 
-## homebrew/versions
 tap homebrew/versions
 
-## karan/karan
 tap karan/karan
 brew gitignore
 
-## monochromegane/sg
 tap monochromegane/sg
 brew sg
 
-## peco/peco
 tap peco/peco
 brew peco
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
@@ -134,6 +125,7 @@ brew sqlite
 brew the_silver_searcher
 brew typesafe-activator
 brew unixodbc
+brew vim --with-lua
 brew wget
 brew wxmac
 brew xz
