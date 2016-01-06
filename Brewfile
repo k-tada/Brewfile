@@ -9,35 +9,28 @@ cask android-studio
 cask atom
 cask boot2docker
 cask clipy
-cask cornerstone
-cask coteditor
 cask cyberduck
 cask day-o
 cask evernote
-cask fraise
 cask gisto
-cask intellij-idea-ce
+cask google-chrome
+cask google-japanese-ime
+cask iterm2
 cask java
 cask karabiner
-cask kobito
-cask mesasqlite
-cask opera-mail
-cask pomotodo
-cask sequel-pro
+cask skype
 cask slack
+cask sourcetree
 cask the-unarchiver
 cask vagrant-manager
 cask vagrant
-cask versions
 cask virtualbox
-cask vivaldi
 cask xquartz
+cask xtrafinder
 
 ## caskroom/versions
 tap caskroom/versions
-cask airmail-beta
-cask firefox-ja
-cask java7
+cask intellij-idea-ce
 
 ## homebrew/binary
 tap homebrew/binary
@@ -50,7 +43,6 @@ tap homebrew/php
 
 ## homebrew/versions
 tap homebrew/versions
-brew subversion16
 
 ## karan/karan
 tap karan/karan
@@ -115,11 +107,13 @@ brew libsodium
 brew libtiff
 brew libtool
 brew libyaml
+brew lua
 brew makedepend
 brew mpfr
 brew mysql
 brew neon
 brew nkf
+brew nodebrew
 brew openssl
 brew p7zip
 brew pango
@@ -130,7 +124,6 @@ brew postgresql
 brew pwgen
 brew python
 brew rbenv
-brew rbenv-gem-rehash
 brew rbenv-gemset
 brew readline
 brew ruby-build
@@ -146,13 +139,15 @@ brew wxmac
 brew xz
 brew zeromq
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask dash2 (!)
+
 # App Store applications
 appstore GarageBand
 appstore iMovie
-appstore iPhoto
-appstore Microsoft OneNote
-appstore Pomodoro Time
-appstore ProjectViewer365
-appstore Sunrise Calendar
-appstore Wunderlist
+appstore Keynote
+appstore Numbers
+appstore Pages
 appstore Xcode
