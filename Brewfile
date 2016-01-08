@@ -11,6 +11,7 @@ cask clipy
 cask cyberduck
 cask dash
 cask day-o
+cask diffmerge
 cask evernote
 cask gisto
 cask google-chrome
@@ -18,6 +19,8 @@ cask google-japanese-ime
 cask iterm2
 cask java
 cask karabiner
+cask macvim
+cask onyx
 cask skype
 cask slack
 cask sourcetree
@@ -89,6 +92,7 @@ brew gobject-introspection
 brew harfbuzz
 brew heroku-toolbelt
 brew icu4c
+brew ios-sim
 brew isl
 brew jpeg
 brew libffi
