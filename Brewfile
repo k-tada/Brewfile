@@ -1,18 +1,22 @@
 
 # tap repositories and their packages
 
+## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask adobe-reader
 cask alfred
 cask android-studio
 cask atom
 cask boot2docker
 cask clipy
+cask coteditor
 cask cyberduck
 cask dash
 cask day-o
 cask diffmerge
 cask evernote
+cask firefox
 cask gisto
 cask google-chrome
 cask google-japanese-ime
@@ -21,36 +25,48 @@ cask java
 cask karabiner
 cask macvim
 cask onyx
+cask prepros
 cask skype
 cask slack
 cask sourcetree
 cask the-unarchiver
+cask thunderbird
 cask vagrant-manager
 cask vagrant
 cask virtualbox
+cask vivaldi
 cask xquartz
 cask xtrafinder
 
+## caskroom/versions
 tap caskroom/versions
 cask intellij-idea-ce
 
+## homebrew/binary
 tap homebrew/binary
 
+## homebrew/brewdler
 tap homebrew/brewdler
 
+## homebrew/php
 tap homebrew/php
 
+## homebrew/versions
 tap homebrew/versions
 
+## karan/karan
 tap karan/karan
 brew gitignore
 
+## monochromegane/sg
 tap monochromegane/sg
 brew sg
 
+## peco/peco
 tap peco/peco
 brew peco
 
+## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
@@ -121,6 +137,7 @@ brew python
 brew rbenv
 brew rbenv-gemset
 brew readline
+brew redis
 brew ruby-build
 brew sbt
 brew scala
@@ -129,16 +146,19 @@ brew sqlite
 brew the_silver_searcher
 brew typesafe-activator
 brew unixodbc
-brew vim --with-lua
+brew vim --with-lua --with-lua
 brew wget
 brew wxmac
 brew xz
 brew zeromq
+brew zsh --without-etcdir --without-etcdir
 
 # App Store applications
 appstore GarageBand
 appstore iMovie
+appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore Sunrise Calendar
 appstore Xcode
