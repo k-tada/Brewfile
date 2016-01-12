@@ -29,9 +29,11 @@ cask skype
 cask slack
 cask sourcetree
 cask the-unarchiver
+cask thunderbird
 cask vagrant-manager
 cask vagrant
 cask virtualbox
+cask vivaldi
 cask xquartz
 cask xtrafinder
 
@@ -139,12 +141,14 @@ brew wget
 brew wxmac
 brew xz
 brew zeromq
-brew zsh --without-etcdir
+brew zsh
 
 # App Store applications
 appstore GarageBand
 appstore iMovie
+appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore Sunrise Calendar
 appstore Xcode
