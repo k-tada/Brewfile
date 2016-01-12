@@ -9,6 +9,7 @@ cask android-studio
 cask atom
 cask boot2docker
 cask clipy
+cask coteditor
 cask cyberduck
 cask dash
 cask day-o
