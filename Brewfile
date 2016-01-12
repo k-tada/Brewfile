@@ -29,11 +29,9 @@ cask skype
 cask slack
 cask sourcetree
 cask the-unarchiver
-cask thunderbird
 cask vagrant-manager
 cask vagrant
 cask virtualbox
-cask vivaldi
 cask xquartz
 cask xtrafinder
 
@@ -136,7 +134,7 @@ brew sqlite
 brew the_silver_searcher
 brew typesafe-activator
 brew unixodbc
-brew vim --with-lua --with-lua
+brew vim --with-lua
 brew wget
 brew wxmac
 brew xz
