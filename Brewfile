@@ -141,14 +141,12 @@ brew wget
 brew wxmac
 brew xz
 brew zeromq
-brew zsh
+brew zsh --without-etcdir
 
 # App Store applications
 appstore GarageBand
 appstore iMovie
-appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
-appstore Sunrise Calendar
 appstore Xcode
