@@ -97,6 +97,7 @@ brew go
 brew gobject-introspection
 brew harfbuzz
 brew heroku-toolbelt
+brew hugo
 brew icu4c
 brew ios-sim
 brew isl
