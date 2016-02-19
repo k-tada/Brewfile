@@ -60,6 +60,9 @@ brew peco
 tap rcmdnk/file
 brew brew-file
 
+tap argon/mas
+brew mas
+
 # Other Homebrew packages
 brew ansible
 brew apr
