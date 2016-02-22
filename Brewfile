@@ -1,6 +1,9 @@
 
 # tap repositories and their packages
 
+tap argon/mas
+brew mas
+
 tap caskroom/cask
 brew brew-cask
 cask adobe-reader
@@ -59,9 +62,6 @@ brew peco
 
 tap rcmdnk/file
 brew brew-file
-
-tap argon/mas
-brew mas
 
 # Other Homebrew packages
 brew ansible
@@ -146,11 +146,3 @@ brew wxmac
 brew xz
 brew zeromq
 brew zsh --without-etcdir
-
-# App Store applications
-appstore GarageBand
-appstore iMovie
-appstore Keynote
-appstore Numbers
-appstore Pages
-appstore Xcode
