@@ -140,7 +140,7 @@ brew sqlite
 brew the_silver_searcher
 brew typesafe-activator
 brew unixodbc
-brew vim --with-lua --with-lua
+brew vim --with-lua
 brew wget
 brew wxmac
 brew xz
