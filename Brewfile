@@ -47,25 +47,8 @@ tap homebrew/binary
 
 tap homebrew/brewdler
 
-tap homebrew/php
-
-tap homebrew/versions
-
-tap karan/karan
-brew gitignore
-
-tap monochromegane/sg
-brew sg
-
-tap peco/peco
-brew peco
-
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew ansible
-brew apr
 brew apr-util
 brew autoconf
 brew automake
@@ -79,8 +62,6 @@ brew ctags
 brew curl
 brew czmq
 brew diff-so-fancy
-brew docker
-brew elixir
 brew erlang
 brew fontconfig
 brew fontforge
@@ -90,11 +71,10 @@ brew fzf
 brew gcc
 brew gdbm
 brew gettext
-brew git
 brew git-flow
 brew git-now
+brew git
 brew giter8
-brew glib
 brew gmp
 brew gnu-getopt
 brew go
@@ -115,7 +95,6 @@ brew libtool
 brew libyaml
 brew lua
 brew makedepend
-brew mpfr
 brew mysql
 brew neon
 brew nkf
@@ -124,13 +103,14 @@ brew openssl
 brew p7zip
 brew pango
 brew pcre
+brew peco
 brew pixman
 brew pkg-config
 brew postgresql
 brew pwgen
 brew python
-brew rbenv
 brew rbenv-gemset
+brew rbenv
 brew readline
 brew redis
 brew ruby-build
@@ -138,12 +118,34 @@ brew sbt
 brew scala
 brew scons
 brew sqlite
-brew the_silver_searcher
-brew typesafe-activator
 brew unixodbc
-brew vim --with-lua
+brew vim --with-lua --with-lua
 brew wget
 brew wxmac
 brew xz
 brew zeromq
-brew zsh
+brew zsh --without-etcdir
+
+tap homebrew/php
+
+tap homebrew/versions
+
+tap karan/karan
+brew gitignore
+
+tap monochromegane/sg
+brew sg
+
+tap peco/peco
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew apr
+brew docker
+brew elixir
+brew glib
+brew mpfr
+brew the_silver_searcher
+brew typesafe-activator
