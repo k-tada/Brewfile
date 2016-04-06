@@ -78,6 +78,7 @@ brew colorsvn
 brew ctags
 brew curl
 brew czmq
+brew diff-so-fancy
 brew docker
 brew elixir
 brew erlang
