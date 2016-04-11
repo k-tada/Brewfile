@@ -119,7 +119,7 @@ brew scala
 brew scons
 brew sqlite
 brew unixodbc
-brew vim --with-lua --with-lua
+brew vim --with-lua
 brew wget
 brew wxmac
 brew xz
