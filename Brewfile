@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-brew brew-cask
 cask adobe-reader
 cask alfred
 cask android-studio
@@ -50,6 +49,7 @@ tap homebrew/brewdler
 tap homebrew/core
 brew ansible
 brew apr-util
+brew apr
 brew autoconf
 brew automake
 brew bash
@@ -62,6 +62,8 @@ brew ctags
 brew curl
 brew czmq
 brew diff-so-fancy
+brew docker
+brew elixir
 brew erlang
 brew fontconfig
 brew fontforge
@@ -75,12 +77,13 @@ brew git-flow
 brew git-now
 brew git
 brew giter8
+brew glib
 brew gmp
 brew gnu-getopt
 brew go
 brew gobject-introspection
 brew harfbuzz
-brew heroku-toolbelt
+brew heroku
 brew hugo
 brew icu4c
 brew ios-sim
@@ -95,6 +98,8 @@ brew libtool
 brew libyaml
 brew lua
 brew makedepend
+brew mongodb
+brew mpfr
 brew mysql
 brew neon
 brew nkf
@@ -109,6 +114,7 @@ brew pkg-config
 brew postgresql
 brew pwgen
 brew python
+brew python3
 brew rbenv-gemset
 brew rbenv
 brew readline
@@ -118,6 +124,8 @@ brew sbt
 brew scala
 brew scons
 brew sqlite
+brew the_silver_searcher
+brew typesafe-activator
 brew unixodbc
 brew vim --with-lua
 brew wget
@@ -140,12 +148,3 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew apr
-brew docker
-brew elixir
-brew glib
-brew mpfr
-brew the_silver_searcher
-brew typesafe-activator
