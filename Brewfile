@@ -11,7 +11,6 @@ cask android-studio
 cask atom
 cask boot2docker
 cask clipy
-cask coteditor
 cask cyberduck
 cask dash
 cask day-o
@@ -26,12 +25,10 @@ cask java
 cask karabiner
 cask macvim
 cask onyx
-cask prepros
 cask skype
 cask slack
 cask sourcetree
 cask the-unarchiver
-cask thunderbird
 cask vagrant-manager
 cask vagrant
 cask virtualbox
@@ -40,7 +37,6 @@ cask xquartz
 cask xtrafinder
 
 tap caskroom/versions
-cask intellij-idea-ce
 
 tap homebrew/binary
 
