@@ -34,7 +34,6 @@ cask vagrant
 cask virtualbox
 cask vivaldi
 cask xquartz
-cask xtrafinder
 
 tap caskroom/versions
 
