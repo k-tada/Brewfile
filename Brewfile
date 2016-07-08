@@ -98,7 +98,6 @@ brew mpfr
 brew mysql
 brew neon
 brew nkf
-brew nodebrew
 brew openssl
 brew p7zip
 brew pango
@@ -110,8 +109,6 @@ brew postgresql
 brew pwgen
 brew python
 brew python3
-brew rbenv-gemset
-brew rbenv
 brew readline
 brew redis
 brew ruby-build
