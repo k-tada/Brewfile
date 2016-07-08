@@ -18,6 +18,7 @@ cask diffmerge
 cask evernote
 cask firefox
 cask gisto
+cask gitkraken
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
