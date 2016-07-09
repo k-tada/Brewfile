@@ -141,3 +141,6 @@ tap peco/peco
 
 tap rcmdnk/file
 brew brew-file
+
+# App Store applications
+appstore 497799835 Xcode
