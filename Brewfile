@@ -26,6 +26,7 @@ cask java
 cask karabiner
 cask macvim
 cask onyx
+cask skitch
 cask skype
 cask slack
 cask sourcetree
@@ -143,4 +144,5 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
+appstore 929507092 PhotoScapeX
 appstore 497799835 Xcode
