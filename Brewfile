@@ -100,6 +100,7 @@ brew mpfr
 brew mysql
 brew neon
 brew nkf
+brew noti
 brew openssl
 brew p7zip
 brew pango
