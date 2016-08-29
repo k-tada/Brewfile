@@ -26,6 +26,7 @@ cask java
 cask karabiner
 cask macvim
 cask onyx
+cask realm-browser
 cask skitch
 cask skype
 cask slack
@@ -45,8 +46,8 @@ tap homebrew/brewdler
 
 tap homebrew/core
 brew ansible
-brew apr-util
 brew apr
+brew apr-util
 brew autoconf
 brew automake
 brew bash
@@ -70,9 +71,9 @@ brew fzf
 brew gcc
 brew gdbm
 brew gettext
+brew git
 brew git-flow
 brew git-now
-brew git
 brew giter8
 brew glib
 brew gmp
