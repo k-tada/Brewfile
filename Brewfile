@@ -24,6 +24,7 @@ cask google-japanese-ime
 cask iterm2
 cask java
 cask karabiner
+cask licecap
 cask macvim
 cask onyx
 cask realm-browser
