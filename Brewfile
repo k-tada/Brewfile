@@ -17,6 +17,7 @@ cask day-o
 cask diffmerge
 cask evernote
 cask firefox
+cask genymotion
 cask gisto
 cask gitkraken
 cask google-chrome
@@ -64,6 +65,7 @@ brew diff-so-fancy
 brew docker
 brew elixir
 brew erlang
+brew flow
 brew fontconfig
 brew fontforge
 brew freetds
@@ -125,6 +127,7 @@ brew the_silver_searcher
 brew typesafe-activator
 brew unixodbc
 brew vim --with-lua
+brew watchman
 brew wget
 brew wxmac
 brew xz
