@@ -164,4 +164,5 @@ brew brew-file
 
 # App Store applications
 appstore 929507092 PhotoScapeX (2.4.1)
-appstore 497799835 Xcode (7.3.1)
+appstore 483820530 QR Journal (1.5)
+appstore 497799835 Xcode (8.0)
