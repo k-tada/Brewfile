@@ -103,6 +103,8 @@ brew libtool
 brew libyaml
 brew lua
 brew makedepend
+brew mecab
+brew mecab-ipadic
 brew mongodb
 brew mpfr
 brew mysql
