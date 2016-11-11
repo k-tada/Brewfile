@@ -110,10 +110,12 @@ brew mpfr
 brew mysql
 brew neon
 brew nkf
+brew node
 brew noti
 brew oniguruma
 brew openexr
 brew openssl
+brew openssl@1.1
 brew p7zip
 brew pango
 brew pcre
@@ -154,10 +156,8 @@ brew opencv3 --with-python3
 tap homebrew/versions
 
 tap karan/karan
-brew gitignore
 
 tap monochromegane/sg
-brew sg
 
 tap peco/peco
 
@@ -168,4 +168,4 @@ brew brew-file
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 929507092 PhotoScapeX (2.4.1)
 appstore 483820530 QR Journal (1.5)
-appstore 497799835 Xcode (8.0)
+appstore 497799835 Xcode (8.1)
