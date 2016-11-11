@@ -155,9 +155,11 @@ brew opencv3 --with-python3
 
 tap homebrew/versions
 
-tap karan/karan
+tap k-tada/karan
+brew gitignore
 
-tap monochromegane/sg
+tap k-tada/sg
+brew sg
 
 tap peco/peco
 
