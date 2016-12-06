@@ -169,5 +169,6 @@ brew brew-file
 # App Store applications
 appstore 1127487414 Install macOS Sierra (12.0.49)
 appstore 929507092 PhotoScapeX (2.4.1)
+appstore 844918735 PicGIF Lite (2.0.8)
 appstore 483820530 QR Journal (1.5)
 appstore 497799835 Xcode (8.1)
