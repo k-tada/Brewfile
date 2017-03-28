@@ -67,12 +67,14 @@ brew docker
 brew eigen
 brew elixir
 brew erlang
+brew fish
 brew flow
 brew fontconfig
 brew fontforge
 brew freetds
 brew freetype
 brew fzf
+brew fzy
 brew gcc
 brew gdbm
 brew gettext
@@ -122,15 +124,19 @@ brew openssl@1.1
 brew p7zip
 brew pango
 brew pcre
+brew pcre2
 brew peco
+brew perl
 brew pixman
 brew pkg-config
 brew postgresql
 brew pwgen
+brew pyenv
 brew python
 brew python3
 brew readline
 brew redis
+brew ruby
 brew ruby-build
 brew sbt
 brew scala
@@ -159,13 +165,15 @@ tap homebrew/versions
 brew mongodb32
 
 tap jhawthorn/fzy
-brew fzy
 
 tap k-tada/karan
 brew gitignore
 
 tap k-tada/sg
 brew sg
+
+tap knqyf263/pet
+brew pet
 
 tap rcmdnk/file
 brew brew-file
