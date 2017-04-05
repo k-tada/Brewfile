@@ -110,6 +110,7 @@ brew makedepend
 brew mecab
 brew mecab-ipadic
 brew mongodb
+brew mongodb@3.2
 brew mpfr
 brew mysql
 brew neon
@@ -162,7 +163,6 @@ tap homebrew/science
 brew opencv3
 
 tap homebrew/versions
-brew mongodb32
 
 tap jhawthorn/fzy
 
