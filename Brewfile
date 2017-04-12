@@ -25,6 +25,7 @@ cask iterm2
 cask java
 cask karabiner
 cask licecap
+cask macdown
 cask macvim
 cask onyx
 cask realm-browser
