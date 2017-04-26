@@ -21,6 +21,7 @@ cask gisto
 cask gitkraken
 cask google-chrome
 cask google-japanese-ime
+cask hyper
 cask iterm2
 cask java
 cask karabiner
@@ -97,14 +98,18 @@ brew ilmbase
 brew ios-sim
 brew isl
 brew isl@0.12
+brew jemalloc
 brew jpeg
 brew jq
 brew libffi
 brew libmpc
 brew libpng
 brew libsodium
+brew libtermkey
 brew libtiff
 brew libtool
+brew libuv
+brew libvterm
 brew libyaml
 brew lua
 brew makedepend
@@ -113,6 +118,7 @@ brew mecab-ipadic
 brew mongodb
 brew mongodb@3.2
 brew mpfr
+brew msgpack
 brew mysql
 brew neon
 brew nkf
@@ -138,6 +144,7 @@ brew python
 brew python3
 brew readline
 brew redis
+brew ripgrep
 brew ruby
 brew ruby-build
 brew sbt
@@ -145,8 +152,10 @@ brew scala
 brew scons
 brew sqlite
 brew swig
+brew the_platinum_searcher
 brew the_silver_searcher
 brew typesafe-activator
+brew unibilium
 brew unixodbc
 brew vim --with-lua
 brew watchman
@@ -175,6 +184,9 @@ brew sg
 
 tap knqyf263/pet
 brew pet
+
+tap neovim/neovim
+brew neovim
 
 tap rcmdnk/file
 brew brew-file
