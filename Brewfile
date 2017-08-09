@@ -5,7 +5,6 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask adobe-reader
 cask alfred
 cask android-studio
 cask atom
@@ -44,133 +43,144 @@ cask xquartz
 
 tap caskroom/versions
 
+tap greymd/tools
+brew tmux-xpanes
+
 tap homebrew/binary
 
 tap homebrew/brewdler
 
 tap homebrew/core
-brew ansible
-brew apr
-brew apr-util
-brew autoconf
-brew automake
-brew bash
-brew boost
-brew cairo
-brew cloog
-brew cmake
-brew colordiff
-brew colorsvn
-brew ctags
-brew curl
-brew czmq
-brew diff-so-fancy
-brew docker
 brew eigen
-brew elixir
-brew erlang
-brew fish
-brew flow
-brew fontconfig
-brew fontforge
-brew freetds
-brew freetype
-brew fzf
-brew fzy
-brew gcc
-brew gdbm
-brew gettext
-brew git
-brew git-flow
-brew git-now
-brew giter8
-brew glib
-brew gmp
-brew gmp@4
-brew gnu-getopt
-brew go
-brew gobject-introspection
-brew harfbuzz
-brew heroku
-brew hugo
-brew icu4c
-brew ilmbase
-brew ios-sim
-brew isl
-brew isl@0.12
-brew jemalloc
-brew jpeg
-brew jq
-brew libffi
-brew libmpc
-brew libpng
-brew libsodium
-brew libtermkey
-brew libtiff
-brew libtool
-brew libuv
-brew libvterm
-brew libyaml
-brew lua
-brew makedepend
-brew mecab
-brew mecab-ipadic
-brew mongodb
-brew mongodb@3.2
-brew mpfr
-brew msgpack
-brew mysql
-brew neon
-brew nkf
-brew node
-brew noti
-brew numpy --with-python3
-brew oniguruma
-brew openexr
-brew openssl
-brew openssl@1.1
-brew p7zip
-brew pango
-brew pcre
-brew pcre2
-brew peco
-brew perl
-brew pixman
-brew pkg-config
-brew postgresql
-brew pwgen
-brew pyenv
-brew python
-brew python3
-brew readline
-brew redis
-brew ripgrep
-brew ruby
-brew ruby-build
-brew sbt
-brew scala
-brew scons
-brew sqlite
 brew swig
-brew the_platinum_searcher
-brew the_silver_searcher
-brew typesafe-activator
-brew unibilium
-brew unixodbc
-brew vim --with-lua
+brew redis
+brew jpeg
+brew libsodium
+brew libffi
+brew git-lfs
+brew readline
+brew cairo
+brew harfbuzz
+brew cmake
 brew watchman
-brew wget
-brew wxmac
+brew giter8
+brew colorsvn
+brew postgresql
+brew elixir
+brew libyaml
+brew peco
+brew czmq
+brew fontconfig
+brew isl
+brew openssl
+brew go
+brew sbt
+brew pcre
+brew freetype
+brew ilmbase
+brew git
+brew gnu-getopt
 brew xz
-brew zeromq
+brew bash
+brew ctags
+brew colordiff
+brew erlang
+brew neon
+brew perl
+brew p7zip
+brew gdbm
+brew unixodbc
+brew ios-sim
+brew neovim
+brew stunnel
+brew noti
+brew libtool
+brew freetds
+brew git-flow
+brew gobject-introspection
+brew typesafe-activator
+brew numpy
+brew fzf
+brew ruby-build
+brew the_platinum_searcher
+brew icu4c
+brew libvterm
+brew graphite2
+brew gcc
+brew ruby
+brew tcptraceroute
+brew openssl@1.1
+brew fzy
+brew diff-so-fancy
+brew libpng
+brew ansible
+brew libtermkey
+brew apr-util
+brew the_silver_searcher
+brew gettext
+brew cloog
+brew pcre2
+brew pkg-config
 brew zsh --without-etcdir
+brew unibilium
+brew fontforge
+brew pango
+brew makedepend
+brew docker
+brew jemalloc
+brew scons
+brew hugo
+brew sqlite
+brew mecab-ipadic
+brew apr
+brew libmpc
+brew jq
+brew automake
+brew vim
+brew git-now
+brew wget
+brew heroku
+brew scala
+brew node
+brew mongodb@3.2
+brew flow
+brew fish
+brew gmp
+brew lua
+brew openexr
+brew mecab
+brew pixman
+brew python3
+brew glib
+brew curl
+brew mysql
+brew libtiff
+brew python
+brew boost
+brew tmux
+brew zeromq
+brew wxmac
+brew nkf
+brew pwgen
+brew msgpack
+brew mpfr
+brew libnet
+brew isl@0.12
+brew mongodb
+brew autoconf
+brew oniguruma
+brew gmp@4
+brew libuv
+brew libevent
+brew ripgrep
+brew pyenv
 
 tap homebrew/php
 
 tap homebrew/python
 
 tap homebrew/science
-brew opencv3
+brew opencv3 --with-python3
 
 tap homebrew/versions
 
@@ -186,14 +196,12 @@ tap knqyf263/pet
 brew pet
 
 tap neovim/neovim
-brew neovim
 
 tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 1127487414 Install macOS Sierra (12.0.49)
-appstore 929507092 PhotoScapeX (2.5)
+appstore 929507092 PhotoScapeX (2.6.2)
 appstore 844918735 PicGIF Lite (2.0.8)
 appstore 483820530 QR Journal (1.5)
 appstore 497799835 Xcode (8.2.1)
